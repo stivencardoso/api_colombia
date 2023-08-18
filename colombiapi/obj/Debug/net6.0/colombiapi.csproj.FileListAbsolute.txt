@@ -1,0 +1,15 @@
+C:\Users\FAMILIA CARDOSO\Desktop\c#\colombiapi\colombiapi\bin\Debug\net6.0\colombiapi.exe
+C:\Users\FAMILIA CARDOSO\Desktop\c#\colombiapi\colombiapi\bin\Debug\net6.0\colombiapi.deps.json
+C:\Users\FAMILIA CARDOSO\Desktop\c#\colombiapi\colombiapi\bin\Debug\net6.0\colombiapi.runtimeconfig.json
+C:\Users\FAMILIA CARDOSO\Desktop\c#\colombiapi\colombiapi\bin\Debug\net6.0\colombiapi.dll
+C:\Users\FAMILIA CARDOSO\Desktop\c#\colombiapi\colombiapi\bin\Debug\net6.0\colombiapi.pdb
+C:\Users\FAMILIA CARDOSO\Desktop\c#\colombiapi\colombiapi\obj\Debug\net6.0\colombiapi.csproj.AssemblyReference.cache
+C:\Users\FAMILIA CARDOSO\Desktop\c#\colombiapi\colombiapi\obj\Debug\net6.0\colombiapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAMILIA CARDOSO\Desktop\c#\colombiapi\colombiapi\obj\Debug\net6.0\colombiapi.AssemblyInfoInputs.cache
+C:\Users\FAMILIA CARDOSO\Desktop\c#\colombiapi\colombiapi\obj\Debug\net6.0\colombiapi.AssemblyInfo.cs
+C:\Users\FAMILIA CARDOSO\Desktop\c#\colombiapi\colombiapi\obj\Debug\net6.0\colombiapi.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA CARDOSO\Desktop\c#\colombiapi\colombiapi\obj\Debug\net6.0\colombiapi.dll
+C:\Users\FAMILIA CARDOSO\Desktop\c#\colombiapi\colombiapi\obj\Debug\net6.0\refint\colombiapi.dll
+C:\Users\FAMILIA CARDOSO\Desktop\c#\colombiapi\colombiapi\obj\Debug\net6.0\colombiapi.pdb
+C:\Users\FAMILIA CARDOSO\Desktop\c#\colombiapi\colombiapi\obj\Debug\net6.0\colombiapi.genruntimeconfig.cache
+C:\Users\FAMILIA CARDOSO\Desktop\c#\colombiapi\colombiapi\obj\Debug\net6.0\ref\colombiapi.dll
